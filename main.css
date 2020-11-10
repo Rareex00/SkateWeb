@@ -1,0 +1,92 @@
+.jumbotron {
+    text-align: center;
+/*    background: none;*/
+}
+
+p.lead {
+    font-size: 1.5rem;
+    margin-bottom: .5px;
+}
+
+.sectionLight {
+    background-color: #E9ECEF;
+    padding: 2rem;
+}
+
+img.deck-img {
+    display: block;
+    margin: auto;
+}
+
+.modalImg {
+    display: block;
+    margin: auto;
+    
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.firstWrapper {
+    margin-top: 30px;
+}
+
+button.first-btn {
+    background-color: #212529;
+/*    color: #ffffff;*/
+    display: block;
+    margin: auto;
+}
+
+#paragraph {
+    font-size: 20px;
+}
+
+.modal-title {
+    margin: auto;
+    margin-left: 170px;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+
+.imgCenter {
+    display: block;
+    margin: auto
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 40%;
+}
+
+.footerImg {
+    padding: 15px;
+}
+
+.fab {
+    margin: 15px;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-google-plus {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
+}
